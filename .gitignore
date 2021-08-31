@@ -37,3 +37,4 @@ sysinfo.txt
 *.unitypackage
 *.blend
 *.blend1
+*.pcache
